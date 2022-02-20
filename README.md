@@ -1,19 +1,29 @@
 # Multiplying-two-matrix
 
 ## AIM:
+To write a program to perform Multiplying-two-matrix using python programming.
 
 ## ALGORITHM:
 
 ### Step 1:
+Import Numpy as np.
+
 ### Step 2:
+Get input from the user.
+
 ### Step 3:
+Create empty lists l1 and l2.
+
 ### Step 4:
+Use for loop to append the values into the list created.
+
 ### Step 5:
+Print the product of two arrays.
 
 ## PROGRAM: 
 ```
-#Name: Akash A
-#Ref No: 21500127
+#Name: Parshwanath
+#Ref No: 21002544
 
 import numpy as np
 
